@@ -66,11 +66,9 @@
 
 # 🏆 Achievements
 
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=BhaveshKapure&theme=radical&no-frame=false&no-bg=false&margin-w=15"/>
-
-</div>
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=BhaveshKapure&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
 
 ---
 
