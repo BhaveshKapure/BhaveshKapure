@@ -1,139 +1,193 @@
 <div align="center">
 
-# 🌌 Hey There, I'm Bhavesh Kapure 👋  
-### 🚀 Future Data Scientist | 🤖 AI Engineer | 💻 Full Stack Learner  
+# 🌌 Hey, I'm Bhavesh Kapure 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Welcome+to+my+GitHub+Profile!;Aspiring+Data+Scientist+%F0%9F%93%8A;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Projects+That+Solve+Problems+%F0%9F%9A%80;Always+Learning+New+Things+%F0%9F%94%A5" />
+### 🤖 AI/ML Engineer in Progress • 📊 Data Analyst • 🐍 Python Developer
 
-<img src="https://user-images.githubusercontent.com/74038190/216655848-e8e2b2d5-56cf-4c2f-8e7b-fd4ddbb98575.gif" width="700"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Welcome+to+my+GitHub!;AI+%26+Machine+Learning+Explorer+%F0%9F%A4%96;Building+Data-Driven+Applications+%F0%9F%93%8A;Turning+Ideas+Into+Real+Projects+%F0%9F%9A%80;Always+Learning%2C+Always+Building+%F0%9F%94%A5" />
+
+<br>
+
+<img src="https://user-images.githubusercontent.com/74038190/216655848-e8e2b2d5-56cf-4c2f-8e7b-fd4ddbb98575.gif" width="650"/>
+
+<br>
+
+<img src="https://komarev.com/ghpvc/?username=BhaveshKapure&label=PROFILE+VIEWS&color=00F7FF&style=for-the-badge" />
 
 </div>
 
 ---
 
-# 🌟 About Me
+# `$ whoami`
 
-<img align="right" alt="coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-🎓 Computer Engineering Student  
-📊 Passionate about Data Science & Analytics  
-🤖 Love Artificial Intelligence & Machine Learning  
-💻 Building Real Projects with Purpose  
-🌱 Currently Learning Advanced Python, SQL, ML, Power BI  
-🎯 Goal: Become Top AI Engineer  
+🎓 **Computer Engineering Student**
+
+🤖 Focused on **AI, Machine Learning & AI Engineering**
+
+📊 Interested in **Data Analytics & Data Science**
+
+🐍 Building applications with **Python**
+
+⚡ Working with **FastAPI & Flask**
+
+🧠 Exploring **Machine Learning, Deep Learning & Computer Vision**
+
+🚀 Building practical projects that solve real problems
+
+🌱 Continuously improving my technical and problem-solving skills
+
+<br clear="right"/>
 
 ---
 
-# ⚡ Tech Stack
+# `$ currently_building`
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,java,c,cpp,mysql,git,github,vscode,html,css,js&theme=dark" />
+## 🤖 AI Data Analytics Agent
+
+### An intelligent analytics platform that works like a virtual senior data analyst.
 
 </div>
 
----
+The project focuses on turning raw datasets into meaningful analytical outputs through:
 
-# 🚀 My Premium Projects
+- 📂 Dataset profiling
+- 📊 Automated KPI generation
+- 📈 Data visualization
+- 🧠 AI-generated insights
+- 📑 Automated dashboard generation
+- 📋 Excel analytics
+- 🔍 Data analysis & exploration
+- ⚡ FastAPI-based backend
 
-✨ **Smart Attendance System**  
-📷 Face Recognition Attendance using Python + OpenCV  
-
-✨ **Hostel Management System**  
-🏨 Student Records + Complaints + Search Automation  
-
-✨ **Stock Market Trading App**  
-📈 Virtual Buy/Sell with Wallet Tracking  
-
-✨ **AI Airline Scheduling System**  
-✈️ Smart Flight & Cargo Scheduling with Chatbot  
+> **Goal:** Make data analysis faster, smarter and more accessible.
 
 ---
 
-# 📊 GitHub Analytics
+# `$ tech_stack`
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BhaveshKapure&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+## 👨‍💻 Languages
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BhaveshKapure&layout=compact&langs_count=8&theme=radical"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,javascript,html,css,mysql&theme=dark" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BhaveshKapure&theme=radical"/>
+<br><br>
 
-</div>
+## 🤖 AI / Data Science
 
----
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch&theme=dark" />
 
-# 🏆 Achievements
+<br>
 
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=BhaveshKapure&show_icons=true&theme=tokyonight">
-</p>
+`NumPy` • `Pandas` • `Scikit-learn` • `OpenCV`
 
----
+<br><br>
 
-# 📈 Contribution Snake Animation
+## ⚡ Backend & Database
 
-<div align="center">
+<img src="https://skillicons.dev/icons?i=fastapi,flask,mysql,sqlite&theme=dark" />
 
-<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" />
+<br>
 
-</div>
+`SQLAlchemy`
 
----
+<br><br>
 
-# 🌐 Connect With Me
+## 🛠️ Tools
 
-<div align="center">
-
-<a href="https://www.linkedin.com/in/bhavesh-kapure-19b002401">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:bhaveshkapure217@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BhaveshKapure">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark" />
 
 </div>
 
 ---
 
-# 👀 Visitors Count
+# `$ featured_projects`
 
-<div align="center">
+<table>
+<tr>
+<td width="50%">
 
-<img src="https://komarev.com/ghpvc/?username=BhaveshKapure&label=PROFILE+VIEWS&color=blueviolet&style=for-the-badge"/>
+### 🤖 AI Data Analytics Agent
 
-</div>
+An AI-powered analytics platform designed to automatically understand datasets, generate analytical insights and create professional dashboards.
+
+**Stack:**  
+`Python` `FastAPI` `Pandas` `NumPy` `SQLAlchemy` `Excel`
+
+</td>
+
+<td width="50%">
+
+### 📷 Smart Student Attendance System
+
+A computer-vision based attendance system using face recognition to automate student attendance.
+
+**Stack:**  
+`Python` `OpenCV` `Face Recognition` `NumPy` `Pandas` `SQLite`
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🏨 Hostel Management System
+
+A web-based system designed to manage student records, rooms and hostel-related operations.
+
+**Stack:**  
+`Python` `Flask` `MySQL` `HTML` `CSS` `JavaScript`
+
+</td>
+
+<td width="50%">
+
+### 🚢 YuvaLearn Titanic Analysis
+
+A series of data-analysis projects covering data cleaning, visualization, predictive modeling and comprehensive Titanic analysis.
+
+**Stack:**  
+`Python` `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scikit-learn`
+
+</td>
+</tr>
+</table>
 
 ---
 
-# 💬 Random Dev Quote
+# `$ what_i_work_with`
 
-<div align="center">
+```text
+Python
+ ├── Data Analysis
+ ├── Machine Learning
+ ├── Computer Vision
+ └── Backend Development
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
+Data
+ ├── Pandas
+ ├── NumPy
+ ├── SQL
+ └── Excel Analytics
 
-</div>
+AI / ML
+ ├── Scikit-learn
+ ├── TensorFlow
+ ├── PyTorch
+ └── OpenCV
 
----
+Backend
+ ├── FastAPI
+ ├── Flask
+ └── SQLAlchemy
 
-# 🔥 Motto
-
-<div align="center">
-
-## 💎 *Learn. Build. Improve. Repeat.*
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:00FFFF&height=120&section=footer"/>
-
-</div>
+Development
+ ├── HTML
+ ├── CSS
+ ├── JavaScript
+ ├── Git
+ └── GitHub
